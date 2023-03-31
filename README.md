@@ -31,16 +31,6 @@ Problem formulation<br><br>
 ---
 ### Tools
 
-- Libraries: 
-
-![heapq](https://img.shields.io/badge/pandas-330F63??style=flat&logo=pandas&logoColor=white)
-![openCV](https://img.shields.io/badge/openCV-%23F7931E.svg??style=flat&logo=openCV&logoColor=black&color=9cf)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg??style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg??style=flat&logo=scikit-learn&logoColor=white)
-![keras](https://img.shields.io/badge/keras-%23000.svg??style=flat&logo=keras&logoColor=white&color=red)
-![tensorflow](https://img.shields.io/badge/tensorflow-%23000.svg??style=flat&logo=tensorflow&logoColor=white&color=green)
-![seaborn](https://img.shields.io/badge/seaborn-%2006600.svg??style=flat&color=blue)
-![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg??style=flat&&logo=matplotlib&color=yellow)
 
 - Softwares: 
 
